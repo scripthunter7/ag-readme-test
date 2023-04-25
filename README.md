@@ -1,16 +1,20 @@
 &nbsp;
 
-<img align="right" width="250" alt="AdGuard Filters logo" src="https://cdn.adtidy.org/website/github.com/AdguardFilters/viking.svg" />
+<p align="center">
+    <img width="275" alt="AdGuard Filters logo" src="https://cdn.adtidy.org/website/github.com/AdguardFilters/viking.svg" />
+</p>
 
-# AdGuard Filters
-### The place where ad trackers are actually blocked
+<h1 align="center">AdGuard Filters</h1>
+<h3 align="center">The place where ad trackers are actually blocked</h3>
 
-[![AGLint status](https://github.com/AdguardTeam/AdguardFilters/actions/workflows/aglint.yml/badge.svg?branch=master)](https://github.com/AdguardTeam/AdguardFilters/actions/workflows/aglint.yml)
-[![License](https://img.shields.io/github/license/AdguardTeam/AdguardFilters)](https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/AdguardTeam/AdguardFilters)](https://github.com/AdguardTeam/AdguardFilters/graphs/contributors)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AdguardTeam/AdguardFilters)](https://github.com/AdguardTeam/AdguardFilters/graphs/commit-activity)
-[![GitHub issues](https://img.shields.io/github/issues/AdguardTeam/AdguardFilters)](https://github.com/AdguardTeam/AdguardFilters/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/AdguardTeam/AdguardFilters)](https://github.com/AdguardTeam/AdguardFilters/issues?q=is%3Aissue+is%3Aclosed)
+<p align="center">
+    <a href="https://github.com/AdguardTeam/AdguardFilters/actions/workflows/aglint.yml" target="_blank"><img src="https://github.com/AdguardTeam/AdguardFilters/actions/workflows/aglint.yml/badge.svg?branch=master" alt="AGLint status"></a>
+    <a href="https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/AdguardTeam/AdguardFilters" alt="License"></a>
+    <a href="https://github.com/AdguardTeam/AdguardFilters/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors/AdguardTeam/AdguardFilters" alt="GitHub contributors"></a>
+    <a href="https://github.com/AdguardTeam/AdguardFilters/graphs/commit-activity" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/AdguardTeam/AdguardFilters" alt="GitHub commit activity"></a>
+    <a href="https://github.com/AdguardTeam/AdguardFilters/issues" target="_blank"><img src="https://img.shields.io/github/issues/AdguardTeam/AdguardFilters" alt="GitHub issues"></a>
+    <a href="https://github.com/AdguardTeam/AdguardFilters/issues?q=is%3Aissue+is%3Aclosed" target="_blank"><img src="https://img.shields.io/github/issues-closed/AdguardTeam/AdguardFilters" alt="GitHub closed issues"></a>
+</p>
 
 &nbsp;
 
